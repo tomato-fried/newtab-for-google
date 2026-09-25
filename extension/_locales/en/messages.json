@@ -1,0 +1,4 @@
+{
+  "name": { "message": "New Tab for Google - Search Focus" },
+  "description": { "message": "Replaces the new tab page with Google and puts the cursor in the search box instead of the address bar." }
+}

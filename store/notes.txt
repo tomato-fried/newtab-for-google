@@ -1,0 +1,1 @@
+No test account needed. Open a new tab and it redirects to google.com. No permissions, no JavaScript.
