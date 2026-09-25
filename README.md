@@ -1,6 +1,6 @@
 # New Tab for Google - Search Focus
 
-Edge extension. Replaces the new tab page with Google.
+Chrome / Edge extension. Replaces the new tab page with Google.
 The cursor goes to the Google search box, not the address bar.
 
 - Manifest V3
@@ -14,7 +14,9 @@ Not affiliated with Google.
 
 ## Install
 
-edge://extensions -> Developer mode -> Load unpacked -> select the extension folder
+Chrome: chrome://extensions -> Developer mode -> Load unpacked -> select the extension folder
+
+Edge: edge://extensions -> Developer mode -> Load unpacked -> select the extension folder
 
 ## License
 
