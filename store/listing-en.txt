@@ -1,10 +1,9 @@
-Replaces the new tab page with Google.
-When you open a new tab, the cursor goes to the Google search box, not the address bar, so you can start typing right away.
+Open a new tab and the cursor is already in the Google search box, not the address bar. Just start typing.
 
-Manifest V3.
-No permissions, no JavaScript. This extension does not collect any data.
-The code is one HTML file, so there is almost nothing to break.
+- Manifest V3
+- No permissions, no data collection
+- Open source (MIT License)
 
-Your browser may ask if you want to keep the new tab change after install. Choose "Keep changes".
+If your browser asks about the new tab change after install, choose "Keep changes".
 
 Not affiliated with Google.
