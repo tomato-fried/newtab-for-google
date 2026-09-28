@@ -3,7 +3,7 @@
 Chrome / Edge extension. Replaces the new tab page with Google.
 The cursor goes to the Google search box, not the address bar.
 
-Chrome Web Store: ストアのURL
+Chrome Web Store: https://chromewebstore.google.com/detail/ggnefjonpaappghobkpcimphhnhmpbfk?utm_source=item-share-cb
 
 - Manifest V3
 - No permissions
